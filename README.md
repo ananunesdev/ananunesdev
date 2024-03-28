@@ -1,5 +1,5 @@
 ### Hello stranger 👋 Welcome!
-💻 Currently learning HTML , CSS & Python<br>
+💻 Currently on HTML , CSS & Python<br>
 📚 Always learning!<br>
 🎡 Aspiring to be back-end<br>
 
