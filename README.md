@@ -1,7 +1,7 @@
 ### Hello stranger 👋 Welcome!
 💻 Currently on HTML , CSS & Python<br>
 📚 Always learning!<br>
-🎡 Aspiring to be back-end<br>
+🎡 Still deciding my path<br>
 
 ##
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananunesdev&show_icons=true&theme=onedark)
