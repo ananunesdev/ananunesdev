@@ -17,5 +17,5 @@
 <div>
     <a href="https://instagram.com/a.nuniv" target="_blank"><img src="https://img.shields.io/badge/Instagram%20%20-white?style=for-the-badge&logo=instagram" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ananunesn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20%20-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
-    <a href="mailto:ananunes.dev" target="_blank"><img src="https://img.shields.io/badge/Gmail%20%20-darkred?style=for-the-badge&logo=gmail" target="_blank"></a>
+    <a href="mailto:ananunes.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail%20%20-darkred?style=for-the-badge&logo=gmail" target="_blank"></a>
 </div>
