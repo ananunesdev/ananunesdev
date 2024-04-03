@@ -1,7 +1,7 @@
 ### Hello stranger 👋 Welcome!
-💻 Currently on HTML , CSS & Python<br>
+💻 Currently on HTML , CSS & JavaScript<br>
 📚 Always learning!<br>
-🎡 Still deciding my path<br>
+🎡 Aspiring to be a Front-end<br>
 
 ##
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananunesdev&show_icons=true&theme=onedark)
@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
     <img allign="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img allign="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img allign="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img allign="center" alt="Ana-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 ##
