@@ -1,5 +1,5 @@
 ### Hello stranger 👋 Welcome!
-💻 Currently on HTML , CSS & JavaScript<br>
+💻 Currently on HTML , CSS & Java<br>
 📚 Always learning!<br>
 🎡 Aspiring to be a Front-end<br>
 
@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
     <img allign="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img allign="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img allign="center" alt="Ana-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img allign="center" alt="Ana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img allign="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
