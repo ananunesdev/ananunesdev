@@ -6,7 +6,7 @@
 ##
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananunesdev&show_icons=true&theme=onedark)
 <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=onedark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananunesdev&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 
 <div style="display: inline_block"><br>
