@@ -5,9 +5,6 @@
 
 ##
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananunesdev&show_icons=true&theme=onedark)
-<div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananunesdev&layout=compact&langs_count=16&theme=onedark"/>
-</div>
 
 <div style="display: inline_block"><br>
     <img allign="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
