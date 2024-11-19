@@ -35,5 +35,4 @@ Check out my repositories and feel free to contribute or contact me <a href = "h
 
 #### Banco de Dados:
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
