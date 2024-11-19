@@ -30,5 +30,5 @@ Check out my repositories and feel free to contribute or contact me <a href = "h
 
 <div>
     - Bootcamps in progress
-    [<img src="[https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png]" height="50"></a>](https://web.dio.me/track/39369682-7247-40d5-a56c-2b380cb7964b)
+    <img src="[[https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png]](https://assets.dio.me/7U-RoOeuFelNUr6cfcclzZguhViVCRThzddZl6NTX60/f:webp/h:120/q:80/L3RyYWNrcy9iNjI1MTQ0Ny1hOWY1LTRjZGUtYmVlZC1iMzRlMzBkMmI0OTgucG5n)" height="50"></a>](https://web.dio.me/track/39369682-7247-40d5-a56c-2b380cb7964b)
 </div>
