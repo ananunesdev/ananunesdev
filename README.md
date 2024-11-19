@@ -28,8 +28,12 @@ Check out my repositories and feel free to contribute or contact me <a href = "h
 
 ##
 
-#### Bootcamps in progress
-[<img src="[https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>](https://hermes.dio.me/certificates/LKL05B1K.pdf)
+#### Outras tecnologias
+![VS-Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 #### Banco de Dados:
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
