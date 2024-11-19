@@ -5,7 +5,7 @@
 
 ##
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananunesdev&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananunesdev\&hide=css,html,php,python,typescript&theme=dark&&hide_progress=false)](https://github.com/ananunesdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananunesdev\&theme=onedark_progress=false)](https://github.com/ananunesdev/github-readme-stats)
 
 <div style="display: inline_block"><br>
     <img allign="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
