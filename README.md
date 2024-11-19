@@ -1,13 +1,13 @@
 ### Hello stranger 👋 Welcome!
-💻 Currently on HTML , CSS & Java<br>
+💻 Currently on HTML , CSS , PHP & JS<br>
 📚 Always learning!<br>
-🎡 Aspiring to be a Front-end<br>
+🎡 Data Analytics with PowerBI @ DIO.me <br>
 
 ##
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananunesdev&show_icons=true&theme=onedark)
 <div style="width: 200px;">
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+<a href="https://github.com/ananunesdev/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananunesdev&langs_count=8" alt="Top Langs" />
 </a>
 </div>
 
@@ -16,6 +16,8 @@
     <img allign="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img allign="center" alt="Ana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img allign="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img allign="center" alt="Ana-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img allign="center" alt="Ana-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 ##
