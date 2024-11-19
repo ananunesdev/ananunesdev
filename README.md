@@ -2,6 +2,7 @@
 💻 Currently on HTML , CSS , PHP & JS<br>
 📚 Always learning!<br>
 🎡 Data Analytics with PowerBI @ DIO.me <br>
+Check out my repositories and feel free to contribute or get in<a href = "(https://www.linkedin.com/in/ananunesn/)" target="_blank">touch</a>! <br>
 
 ##
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananunesdev&show_icons=true&theme=onedark) <br>
