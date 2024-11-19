@@ -7,7 +7,7 @@
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananunesdev&show_icons=true&theme=onedark)
 <div style="width: 200px;">
 <a href="https://github.com/ananunesdev/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananunesdev&langs_count=8" alt="Top Langs" icons=true&theme=onedark />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananunesdev&langs_count=8icons=true&theme=onedark" alt="Top Langs" />
 </a>
 </div>
 
