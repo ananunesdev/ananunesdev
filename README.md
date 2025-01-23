@@ -1,7 +1,6 @@
 ### Hello stranger 👋 Welcome!
-💻 Currently on HTML , CSS , PHP & JS<br>
 📚 Always learning!<br>
-🎡 Data Analytics with PowerBI @ DIO.me <br>
+🎡 AI Applied to Data Analysis @ DIO.me <br>
 Check out my repositories and feel free to contribute or contact me <a href = "https://www.linkedin.com/in/ananunesn/" target="_blank">here</a>! <br>
 
 ##
