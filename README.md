@@ -1,6 +1,6 @@
 ### Hello stranger 👋 Welcome!
 📚 Always learning!<br>
-🎡 Studying information systems @ PUC Minas and IT infrastructure. <br>
+🎡 Studying Information Systems @ Una BH and IT infrastructure. <br>
 Check out my repositories and feel free to contribute or contact me <a href = "https://www.linkedin.com/in/ananunesn/" target="_blank">here</a>! <br>
 
 ##
