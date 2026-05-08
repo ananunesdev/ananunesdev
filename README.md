@@ -3,17 +3,6 @@
 🎡 Studying Information Systems @ Una BH and IT infrastructure. <br>
 Check out my repositories and feel free to contribute or contact me <a href = "https://www.linkedin.com/in/ananunesn/" target="_blank">here</a>! <br>
 
-<div style="display: inline_block"><br>
-    <img allign="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img allign="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img allign="center" alt="Ana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img allign="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img allign="center" alt="Ana-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img allign="center" alt="Ana-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
-
-##
-
 <div>
     <a href="https://instagram.com/a.nuniv" target="_blank"><img src="https://img.shields.io/badge/Instagram%20%20-white?style=for-the-badge&logo=instagram" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ananunesn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20%20-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
