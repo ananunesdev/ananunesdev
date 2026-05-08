@@ -3,11 +3,6 @@
 🎡 Studying Information Systems @ Una BH and IT infrastructure. <br>
 Check out my repositories and feel free to contribute or contact me <a href = "https://www.linkedin.com/in/ananunesn/" target="_blank">here</a>! <br>
 
-##
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananunesdev&show_icons=true&theme=onedark) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananunesdev&layout=compact&theme=onedark)](https://github.com/ananunesdev/github-readme-stats)
-
-
 <div style="display: inline_block"><br>
     <img allign="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img allign="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
