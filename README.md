@@ -1,5 +1,8 @@
 # ANA LUÍSA NUNES
-<img width="2056" height="765" alt="Banner Minimalista de Segurança da Informação" src="https://github.com/user-attachments/assets/93a99149-6335-4ea9-b206-a4cf3fbcbf08" />
+<p align="center">
+  <img width="75%" alt="Banner Minimalista de Segurança da Informação" src="https://github.com/user-attachments/assets/83dbe273-3945-47fe-a5d4-7dea6b3711fb" />
+</p>
+
 ## Hello stranger 🖖 welcome,
 
 ### SEGURANÇA DA INFORMAÇÃO | ADMINISTRAÇÃO DE SISTEMAS
