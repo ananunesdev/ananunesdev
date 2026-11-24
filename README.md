@@ -60,7 +60,7 @@ Utilizo este espaço para documentar pesquisas, desenvolver projetos práticos, 
 
 Repositório dedicado à pesquisa e documentação técnica em Segurança da Informação, reunindo estudos, laboratórios, experimentos e projetos práticos.
 
-[ACESSAR REPOSITÓRIO →](LINK_DO_REPOSITORIO)
+[ACESSAR REPOSITÓRIO →]([LINK_DO_REPOSITORIO](https://github.com/ananunesdev/security-research-hub))
 
 ## 04. APRENDIZADO CONTÍNUO
 
@@ -75,7 +75,7 @@ Atualmente desenvolvendo conhecimentos em:
 ## 05. CONECTE-SE COMIGO
 
 <p>
-  <a href="LINK_DO_LINKEDIN">
+  <a href="[LINK_DO_LINKEDIN](https://www.linkedin.com/in/ananunesn/)">
     <img src="https://img.shields.io/badge/LinkedIn-171A21?style=for-the-badge&logo=linkedin&logoColor=3978C5" />
   </a>
   <a href="LINK_DO_PORTFOLIO">
