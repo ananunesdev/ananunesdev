@@ -77,12 +77,12 @@ Atualmente desenvolvendo conhecimentos em:
 
 ## 05. CONECTE-SE COMIGO
 
-<p>
-  <a href=(https://www.linkedin.com/in/ananunesn/)>
-    <img src="https://img.shields.io/badge/LinkedIn-171A21?style=for-the-badge&logo=linkedin&logoColor=3978C5" />
-  </a>
-  <a href="LINK_DO_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfólio-171A21?style=for-the-badge&logo=googlechrome&logoColor=E8EDF2" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/ananunesn/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-171A21?style=for-the-badge&logo=linkedin&logoColor=3978C5"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
