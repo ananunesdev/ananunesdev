@@ -78,7 +78,7 @@ Atualmente desenvolvendo conhecimentos em:
 ## 05. CONECTE-SE COMIGO
 
 <p>
-  <a href=[LINK_DO_LINKEDIN](https://www.linkedin.com/in/ananunesn/)>
+  <a href=(https://www.linkedin.com/in/ananunesn/)>
     <img src="https://img.shields.io/badge/LinkedIn-171A21?style=for-the-badge&logo=linkedin&logoColor=3978C5" />
   </a>
   <a href="LINK_DO_PORTFOLIO">
